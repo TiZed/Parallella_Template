@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by Cvpcb (2014-05-02 BZR 4841)-product   date = 10/5/2014 0:32:41
+
+BeginCmp
+TimeStamp = /53694AE6;
+Reference = J8;
+ValeurCmp = BTH-030-XX-X-D;
+IdModule  = Samtec_BTH:BTH-030-XX-X-D-A;
+EndCmp
+
+BeginCmp
+TimeStamp = /53696710;
+Reference = J9;
+ValeurCmp = BTH-030-XX-X-D;
+IdModule  = Samtec_BTH:BTH-030-XX-X-D-A;
+EndCmp
+
+BeginCmp
+TimeStamp = /536BD7B5;
+Reference = J11;
+ValeurCmp = BTH-030-XX-X-D;
+IdModule  = Samtec_BTH:BTH-030-XX-X-D-A;
+EndCmp
+
+BeginCmp
+TimeStamp = /536C34AF;
+Reference = J13;
+ValeurCmp = BTH-030-XX-X-D;
+IdModule  = Samtec_BTH:BTH-030-XX-X-D-A;
+EndCmp
+
+EndListe

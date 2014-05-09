@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source D:\Projects\SDR\Parallella_Template\Parallella_Template.sch)
-    (date "9/5/2014 0:15:36")
+    (source D:/Projects/SDR/Parallella_Template/Parallella_Template.sch)
+    (date "10/5/2014 0:32:26")
     (tool "Eeschema (2014-05-02 BZR 4841)-product"))
   (components
     (comp (ref J8)
