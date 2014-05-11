@@ -1,4 +1,4 @@
-update=8/5/2014 23:43:56
+update=11/5/2014 23:49:13
 version=1
 last_client=kicad
 [cvpcb]
@@ -43,8 +43,6 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
-[general]
-version=1
 [eeschema]
 version=1
 PageLayoutDescrFile=
@@ -89,3 +87,5 @@ LibName29=contrib
 LibName30=valves
 LibName31=samtec
 LibName32=Parallella_Supplies
+[general]
+version=1
