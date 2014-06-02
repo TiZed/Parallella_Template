@@ -38,9 +38,9 @@ encoding utf-8
 Sheet 2 2
 Title "Parallella Expansion Connectors (PEC)"
 Date ""
-Rev "0.5"
-Comp "TiZed"
-Comment1 "Ohad Tzafrir"
+Rev ""
+Comp ""
+Comment1 ""
 Comment2 ""
 Comment3 ""
 Comment4 ""
